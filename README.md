@@ -130,13 +130,13 @@ The lowest scoring homework assignment will not be counted.
 * Your code must compile and be tested to work. If it does not compile/work it is better to leave a comment explaining as much of what you've done to try to remedy as you may receive partial credit.
 * Comment your code. Be descriptive yet succinct.
 * Follow as closely as possible the [Gnu Coding StandardsSun Code Conventions](http://www.gnu.org/prep/standards/standards.html). 
-* Mainly:
-* All macros and constants in caps: MAX_BUFFER_SIZE, TRACKING_ID_PREFIX.
-* Struct names and typedef's in camelcase: GtkWidget, TrackingOrder.
-* Functions that operate on structs: classic C style: gtk_widget_show(), tracking_order_process().
-* Pointers: nothing fancy here: GtkWidget *foo, TrackingOrder *bar.
-* Global variables: just don't use global variables. They are evil.
-* Functions that are there, but shouldn't be called directly, or have obscure uses, or whatever: one or more underscores at the beginning: _refrobnicate_data_tables(), _destroy_cache()
+Mainly:
+- All macros and constants in caps: MAX_BUFFER_SIZE, TRACKING_ID_PREFIX.
+- Struct names and typedef's in camelcase: GtkWidget, TrackingOrder.
+- Functions that operate on structs: classic C style: gtk_widget_show(), tracking_order_process().
+- Pointers: nothing fancy here: GtkWidget *foo, TrackingOrder *bar.
+- Global variables: just don't use global variables. They are evil.
+- Functions that are there, but shouldn't be called directly, or have obscure uses, or whatever: one or more underscores at the beginning: _refrobnicate_data_tables(), _destroy_cache()
 
 ### Cheating / Copying Code
 Any form of cheating or using others' code will not be tolerated. All work must be original. If two students hand in essentially the same code then __both__ students will receive __0__ for that assignment and also for another assignment (their highest scoring) and may also face further disciplinary action from NYU.     
