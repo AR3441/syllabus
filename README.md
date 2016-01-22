@@ -43,7 +43,7 @@ Tentative schedule
 
 | Week | Date | Topic | Reading (chapters) |
 | :-----: | :--: | ----- | ------------------ |
-| 1 | 1/25 | Introduction / Basics / Github / IDEs | 1 (Skip 1.6, 1.8 and 1.9)|
+| 1 | 1/25 | Introduction / Basics / Github / IDEs | 0, 1 (Skip 1.6, 1.8 and 1.9), Github Videos|
 | 2 | 2/1 | Lexical Elements | 2 |
 | 3 | 2/8 | Fundamental Data Types | 3 |
 | 4 | 2/15 | Flow of Control | 4 |
