@@ -11,7 +11,7 @@ Gustavo Sandoval
 | gustavo.sandoval@nyu.edu | TBD <br/>(the classroom) | 1:30 - 2:30 Mon- Wed <br/>(one hour prior to lecture) |
 
 ### Course Description
-* An introduction to programming using the C language. See [Lectures](#lectures) for topics covered.
+* A practical introduction to programming using the C language. See [Lectures](#lectures) for topics covered.
 
 ### Textbook
 * A book on C programming, 4th ed.; Al Kelley and Ira Pohl. __ISBN 0-201-18399-4__
