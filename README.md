@@ -78,20 +78,19 @@ Ensure you have access to this [repository](https://github.com/NYU-CS2164/Spring
 
 Upon getting access you must [Fork](https://help.github.com/articles/fork-a-repo) the repository. This will give you write access to a copied version owned by your user. 
 
-### Homework
+### Homework/Labs
 
-There will be __11__ homework assignments.  I will throw out the lowest score. This allows for some cushion in case you are unavailable to work on an assignment, are late, get a bad grade or for whatever reason do not finish an assignment.
+There will be __11__ homework/lab assignments.  I will throw out the lowest score. This allows for some cushion in case you are unavailable to work on an assignment, are late, get a bad grade or for whatever reason do not finish an assignment.
 
-Homework assignments will be posted immediately after lecture. They will be due at __5pm__ the day of the next lecture (in general, consult the [Grading Schedule](#grading) for any changes)
+Lab assignments will be posted at the lab.  They will be due at __2pm__ the day of the next wednesday lecture (in general, consult the [Grading Schedule](#grading) for any changes)
 
 The process for viewing and submitting homework assignments is:
-* I will make the assignment available immediately after the lecture
+* I will make the assignment available at the lab either in NYU classes or Github
 * You will work on your assignment and commit locally
-* The final commit which I'll review for grading will be the latest commit __before 5pm__ the day of the following lecture (i.e., you'll have about one week to complete the assignment)
-* Only __after 5pm__ you should push your changes to your forked repository (`git push`) and then issue a [Pull Request](https://help.github.com/articles/using-pull-requests) for your completed work thus making it available for grading.
-* Note, the pull request __must be submitted within 24 hours__ of the due date.
+* The final commit which I'll review for grading will be the latest commit __before 2pm__ on the due date.  (i.e., you'll have almost a week to complete the assignment)
+* Only when you are close to finished and close to the due date, you should push your changes to your forked repository (`git push`) and then issue a [Pull Request](https://help.github.com/articles/using-pull-requests) for your completed work thus making it available for grading.
 
-__Late submissions are treated as 0__ Submitting an assignment late will not be tolerated in any circumstance. This includes issuing a pull request after the 24 hour deadline of last commit.  If this happens you can use this as your grade which will not be counted.  
+__Late submissions are treated as 0__ Submitting an assignment late will not be tolerated in any circumstance. If this happens you can use this as your grade which will not be counted.  
 
 __Important__ If any part of this process does not make sense please let me know __ASAP (as soon as possible)__ via e-mail or in the first lecture.
 
@@ -110,18 +109,18 @@ See [Grading](#grading) for dates and overall grade percentage.
 
 | Activity | Date Due | Overall Grade Percentage |
 | :------- | :------: | :----------------------: |
-| Homework 1 | 2/3 @ 5 pm | 5% |
-| Homework 2 | 2/10 @ 5 pm | 5% |
-| Homework 3 | 2/17 @ 5 pm | 5% |
-| Homework 4 | 2/24 @ 5 pm | 5% |
-| Homework 5 | 3/2 @ 5 pm | 5% |
+| Lab 1 | 2/3 @ 5 pm | 5% |
+| Lab 2 | 2/10 @ 5 pm | 5% |
+| Lab 3 | 2/17 @ 5 pm | 5% |
+| Lab 4 | 2/24 @ 5 pm | 5% |
+| Lab 5 | 3/2 @ 5 pm | 5% |
 | Midterm | 3/9 | 20% |
-| Homework 6 | 3/23 @ 5 pm | 5% |
-| Homework 7 | 3/30 @ 5 pm | 5% |
-| Homework 8 | 4/6 @ 5 pm | 5% |
-| Homework 9 | 4/13 @ 5 pm | 5% |
-| Homework 10 | 4/20 @ 5 pm | 5% |
-| Homework 11 | 4/27 @ 5 pm | 5% |
+| Lab 6 | 3/23 @ 5 pm | 5% |
+| Lab 7 | 3/30 @ 5 pm | 5% |
+| Lab 8 | 4/6 @ 5 pm | 5% |
+| Lab 9 | 4/13 @ 5 pm | 5% |
+| Lab 10 | 4/20 @ 5 pm | 5% |
+| Lab 11 | 4/27 @ 5 pm | 5% |
 | Final | 5/11 | 30% |
 
 The lowest scoring homework assignment will not be counted.
