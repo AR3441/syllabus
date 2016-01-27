@@ -109,18 +109,18 @@ See [Grading](#grading) for dates and overall grade percentage.
 
 | Activity | Date Due | Overall Grade Percentage |
 | :------- | :------: | :----------------------: |
-| Lab 1 | 2/3 @ 5 pm | 5% |
-| Lab 2 | 2/10 @ 5 pm | 5% |
-| Lab 3 | 2/17 @ 5 pm | 5% |
-| Lab 4 | 2/24 @ 5 pm | 5% |
-| Lab 5 | 3/2 @ 5 pm | 5% |
+| Lab 1 | 2/3 @ 2 pm | 5% |
+| Lab 2 | 2/10 @ 2 pm | 5% |
+| Lab 3 | 2/17 @ 2 pm | 5% |
+| Lab 4 | 2/24 @ 2 pm | 5% |
+| Lab 5 | 3/2 @ 2 pm | 5% |
 | Midterm | 3/9 | 20% |
-| Lab 6 | 3/23 @ 5 pm | 5% |
-| Lab 7 | 3/30 @ 5 pm | 5% |
-| Lab 8 | 4/6 @ 5 pm | 5% |
-| Lab 9 | 4/13 @ 5 pm | 5% |
-| Lab 10 | 4/20 @ 5 pm | 5% |
-| Lab 11 | 4/27 @ 5 pm | 5% |
+| Lab 6 | 3/23 @ 2 pm | 5% |
+| Lab 7 | 3/30 @ 2 pm | 5% |
+| Lab 8 | 4/6 @ 2 pm | 5% |
+| Lab 9 | 4/13 @ 2 pm | 5% |
+| Lab 10 | 4/20 @ 2 pm | 5% |
+| Lab 11 | 4/27 @ 2 pm | 5% |
 | Final | 5/11 | 30% |
 
 The lowest scoring homework assignment will not be counted.
