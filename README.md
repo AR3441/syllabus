@@ -121,7 +121,8 @@ See [Grading](#grading) for dates and overall grade percentage.
 | Lab 9 | 4/13 @ 2 pm | 5% |
 | Lab 10 | 4/20 @ 2 pm | 5% |
 | Lab 11 | 4/27 @ 2 pm | 5% |
-| Final | 5/11 | 30% |
+| Final Project| 5/11 | 10% |
+| Final Exam | 5/11 | 20%
 
 The lowest scoring homework assignment will not be counted.
 
