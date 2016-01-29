@@ -66,15 +66,15 @@ Ask as many questions as you have. I would encourage you to ask the questions in
 
 ### GitHub Usage
 
-This class will use [GitHub](http://github.com) extensively. All lectures, homework assignments and discussion will happen on the class's [repository](https://github.com/NYU-CS2164/Spring-2016);
+This class will use [GitHub](http://github.com) extensively. All lectures, homework assignments and discussion will happen on the class's [repository](https://github.com/NYU-CS2164/Spring2016);
 To read more about the benefits to this for you as a student, read [here](https://education.github.com/)
 
-You must notify me of your GitHub user id. As soon as you do, I will verify that you're enrolled in the class, and then give you access to the class's private [repository](https://github.com/NYU-CS2164/Spring-2016).  The repository is [Spring-2016](https://github.com/NYU-CS2164/Spring-2016). If you do not have access you will get a 404 message. This means either;
+You must notify me of your GitHub user id. As soon as you do, I will verify that you're enrolled in the class, and then give you access to the class's private [repository](https://github.com/NYU-CS2164/Spring2016).  The repository is [Spring2016](https://github.com/NYU-CS2164/Spring2016). If you do not have access you will get a 404 message. This means either;
 * you haven't given me your GitHub user id
 * I have not yet added you
 * or you are not logged-in with that user id.
 
-Ensure you have access to this [repository](https://github.com/NYU-CS2164/Spring-2016) __ASAP (as soon as possible)__
+Ensure you have access to this [repository](https://github.com/NYU-CS2164/Spring2016) __ASAP (as soon as possible)__
 
 Upon getting access you must [Fork](https://help.github.com/articles/fork-a-repo) the repository. This will give you write access to a copied version owned by your user. 
 
